@@ -5,6 +5,20 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.18.2",
+    "mongoose": "^8.9.5"
+  },
+  "version": "1.0.0",
+  "description": "## **Overview** This project involves designing a MongoDB schema for a blog application. The schema enables creating, storing, and managing blog posts and comments while ensuring data validation and efficient queries.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeeth-606/writing_mongoose_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangeeth-606/writing_mongoose_2/issues"
+  },
+  "homepage": "https://github.com/sangeeth-606/writing_mongoose_2#readme"
 }
